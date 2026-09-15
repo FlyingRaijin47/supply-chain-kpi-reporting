@@ -46,7 +46,7 @@ This project analyzes supply chain and operational performance through an intera
 
 ## Dashboard Preview
 
-The repository includes the Excel workbook used to build the interactive dashboard.
+![Supply Chain Dashboard](Supply%20Chain%20Dashboard.png)
 
 ## Workbook Structure
 
